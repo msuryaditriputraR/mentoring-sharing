@@ -1,6 +1,6 @@
 ### Mentoring & Sharing
 
-I have a program called Mentoring & Sharing for new programming students to help them understand the main concept and finally improve their coding skills.
+I have a program called Mentoring & Sharing for new programming students to help them understand the main concept and finally improve their coding skills. This repository to store all of my source code during the mentoring and sharing.
 
 I really happy to share my pieces of experience and knowledge with everyone who needs it.
 
