@@ -9,3 +9,5 @@ This program is my contribution to the community to accelerate the digital trans
 It's totally free and beginner-friendly. Feel free to join us if you want to learn and grow together. 🔥
 
 May Allah bless us 🙏
+
+Happy Coding ☕
